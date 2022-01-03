@@ -1,7 +1,7 @@
 #We need to create a variable 
 
 myNum = 45
-#You can also make myNum a user input
+#You can also make myNum a user input like this:
 
 myNum = int(input("Enter a num: "))
 
